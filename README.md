@@ -11,3 +11,8 @@ images/new-tesla-roadster.jpg
 
 
 images/tesla.roadster-kickflip.jpeg
+
+## Uzitecne odkazy
+
+-[Oficialni stranka Tesla] (https://www.tesla.com)
+-[SpaceX] (https://www.spacex.com)
