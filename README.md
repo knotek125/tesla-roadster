@@ -10,7 +10,7 @@ images/new-tesla-roadster.jpg
 **nejrychlejsi zrychleni** na svete
 
 
-![Akrobacie](images/tesla.roadster-kickflip.jpeg)
+![Roaster](images/logo.png)
 
 ## Uzitecne odkazy
 
