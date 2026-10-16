@@ -19,3 +19,5 @@ Vitejte v mem repozitari o **Tesla Roasteru** - nejnovejsim elektrickem superspo
 
 -[Oficialni stranka Tesla] (https://www.tesla.com)
 -[SpaceX] (https://www.spacex.com)
+
+**Shrnuti:** Tento repozitar je hotov
