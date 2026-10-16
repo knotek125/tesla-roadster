@@ -3,14 +3,14 @@ Vitejte v mem repozitari o **Tesla Roasteru** - nejnovejsim elektrickem superspo
 
 ## Design a vzhled
 
-images/new-tesla-roadster.jpg
+![Roadster](images/tesla-roadster-kickflip.jpeg)
 
 ## Hlavni prednosti
 
 **nejrychlejsi zrychleni** na svete
 
 
-![Roaster](images/tesla-roadster-kickflip.jpeg)
+![Roadster](images/tesla-roadster-kickflip.jpeg)
 
 ## Uzitecne odkazy
 
